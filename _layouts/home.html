@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_2280354_1aa66jhm87d.css">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>{{site.title}}</title>
+</head>
+<body>
+    <div class="main-container">
+        <div class="update"><lable>更新时间</lable>{{site.update}}</div>
+        <div class="items">
+            {% include person.html %}
+            {{content}}
+        </div>
+    </div>
+</body>
+</html>
