@@ -1,15 +1,21 @@
 title: 简历 - Java 开发工程师 - 汤晔飞
 
 aboutme:
-  name: 汤晔飞 / Tang
+  name: 汤晔飞
   sex: 男
   age: 28
   email: tangyfnew007@gmail.com
   phone: 18917058261
   github: https://github.com/aner1001
-  city: 上海
-  job: 开发工程师
+  blog: https://aner1001.github.io/ , https://aner1001.gitee.io/
+  city: 上海市嘉定区
+  job: Java开发工程师
   edu: 本科
+  native: 上海
+  school: 上海海事大学
+  major: 计算机科学与技术
+  workingyear: 5年
+  qq: 584856024
 
 
-update: 2020年12月19日
+update: 2021年5月28日
