@@ -38,7 +38,7 @@ body {
 }
 
 .person .items:nth-child(1) > ul > li > span {
-    width: 70px;
+    width: 100px;
     display: inline-block;
 }
 
