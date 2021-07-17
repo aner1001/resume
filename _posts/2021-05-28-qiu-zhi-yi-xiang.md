@@ -17,7 +17,7 @@ date: 2020-12-18 8
   5. 熟练掌握strtus2，Spring，ibatis框架联合开发。熟练掌握SpringMVC，Spring，Mybatis框架联合开发。
   6. 熟练掌握WebService开发接口，能阅读 WSDL，发布 Web 服务。
   7. 熟练掌握POI开发，能打印出含图片等复杂样式的excel报表。     
-  8. 熟悉运用工作流引擎。
+  8. 熟悉运用工作流引擎调度。
   9. 熟练掌握Tomcat等Web容器以及J2EE容器的配置以及部署。
   10. 熟悉SpringBoot、SpringCloud、Dubbo、Zookeeper、Eureka框架。
 
@@ -25,6 +25,7 @@ date: 2020-12-18 8
   1. 熟悉运用 JavaScript、Ajax、jQuery 等脚本技术，能熟悉运用EasyUI、layUI、fullpage、validate等 jQuery 插件
   2. 熟练掌握HTML、CSS构建简单页面，HTML5的CSS3技术制作简单元素动画效果。
   3. 熟悉高德地图开放平台API。
+  4. 熟练使用Node.js,与npm包管理器。
 
 
 **数据库：**
