@@ -4,8 +4,8 @@ date: 2020-12-18 8
 ---
 
 **目前研究技术：**
-1. Hexo搭建个人博客，实现自动化编译部署，访问优化。
-2. Jekyll制作在线简历。
+1. Hexo搭建个人博客，实现自动化编译部署，访问优化。地址：https://aner1001.github.io/
+2. Jekyll制作在线简历。地址：https://aner1001.gitee.io/resume/
 3. 数据库Redis。
 
 
@@ -15,17 +15,16 @@ date: 2020-12-18 8
   3. 熟练掌握Nginx配置，掌握静态代理、反向代理，负载均衡技术。
   4. 熟悉Redis及其工作原理。
   5. 熟练掌握strtus2，Spring，ibatis框架联合开发。熟练掌握SpringMVC，Spring，Mybatis框架联合开发。
-  6. 熟练掌握WebService开发接口，能阅读 WSDL，发布 Web 服务。
-  7. 熟练掌握POI开发，能打印出含图片等复杂样式的excel报表。     
-  8. 熟悉运用工作流引擎调度。
+  6. 熟悉SpringBoot、SpringCloud、Dubbo、Zookeeper、Eureka技术。
+  7. 熟练掌握WebService开发接口，能阅读 WSDL，发布 Web 服务。
+  8. 熟练掌握POI开发，能打印出含图片等复杂样式的excel报表。     
   9. 熟练掌握Tomcat等Web容器以及J2EE容器的配置以及部署。
-  10. 熟悉SpringBoot、SpringCloud、Dubbo、Zookeeper、Eureka框架。
 
 **Javaweb前端：**：
+
   1. 熟悉运用 JavaScript、Ajax、jQuery 等脚本技术，能熟悉运用EasyUI、layUI、fullpage、validate等 jQuery 插件
   2. 熟练掌握HTML、CSS构建简单页面，HTML5的CSS3技术制作简单元素动画效果。
-  3. 熟悉高德地图开放平台API。
-  4. 熟练使用Node.js,与npm包管理器。fis、Hexo、Jekyll框架。
+  3. 熟练使用Node.js,与npm包管理器。fis、Hexo、Jekyll框架。
 
 
 **数据库：**
