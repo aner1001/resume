@@ -4,7 +4,7 @@ date: 2020-12-18 8
 ---
 
 **目前研究技术：**
-1. Hexo搭建个人博客，实现自动化编译部署，访问优化。地址：https://aner1001.github.io/
+1. Hexo搭建个人博客，实现自动化编译，自动化部署，访问优化。地址：https://aner1001.github.io/
 2. Jekyll制作在线简历。地址：https://aner1001.gitee.io/resume/
 3. 数据库Redis。
 
